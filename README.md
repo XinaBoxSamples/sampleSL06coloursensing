@@ -1,5 +1,5 @@
 # sample_SL06_colour_sensing
-Sample project for the SL06 hat shoes colour readings on the OLED screen.
+Sample project for the SL06 that shows colour readings on the OLED screen.
 
 ###### Source code
 
